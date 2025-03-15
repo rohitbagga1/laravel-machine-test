@@ -53,14 +53,3 @@ To test run:-
 Visit:
 http://localhost:8000/products
 This will show all products with their category names.
-
-4) Database Factories & Seeders
-Factories
-1) database/factories/UserFactory.php
-2) database/factories/ProductFactory.php
-3) database/factories/CategoryFactory.php
-Seeders
-1) database/seeders/DatabaseSeeder.php
-2) database/seeders/UserSeeder.php
-3) database/seeders/ProductSeeder.php
-4) database/seeders/CategorySeeder.php
